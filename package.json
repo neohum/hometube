@@ -1,0 +1,19 @@
+{
+  "name": "hometube",
+  "description": "> 이 저장소는 YouTube 서비스 제작을 위한 연습 프로젝트입니다.  ## TODO",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neohum/hometube.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neohum/hometube/issues"
+  },
+  "homepage": "https://github.com/neohum/hometube#readme"
+}
